@@ -1,10 +1,13 @@
 🖋 LogNinja - Python Keylogger with GUI
+
 📌 Overview
+
 LogNinja is a simple yet powerful Python-based keylogger with a Graphical User Interface (GUI) built using Tkinter.
 It uses the pynput library to monitor and record keystrokes in real-time and provides options to start, stop, and save logs.
 
 
 ✨ Features
+
 Start & Stop Logging with one click
 
 Real-time keystroke display in the GUI
@@ -24,11 +27,11 @@ bash
 Copy
 Edit
 keylogger.py        # Main application code
-assets/logo.png     # Logo for GUI (optional)
-assets/logo.ico     # Icon for Windows (optional)
-logs/               # Folder where logs are saved (auto-created)
+logs/               # Folder where logs are saved
 README.md           # Project documentation
+
 ⚙️ Requirements
+
 Make sure you have Python 3.x installed and then install the dependencies:
 
 bash
@@ -45,6 +48,7 @@ Ubuntu/Debian: sudo apt-get install python3-tk
 MacOS: Pre-installed with Python
 
 🚀 How to Run
+
 Clone the repository or download the script:
 
 bash
